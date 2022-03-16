@@ -98,10 +98,10 @@ tensorflow-io-gcs-filesystem
 termcolor
 tf-estimator-nightly
 threadpoolctl
-torch==1.10.0+cu113
-torchaudio==0.10.0+cu113
+torch
+torchaudio
 torchsummary
-torchvision==0.11.1+cu113
+torchvision
 tornado
 traitlets
 typing_extensions
